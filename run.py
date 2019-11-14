@@ -4,3 +4,4 @@ if __name__ == '__main__':
 
     print(gl.test_case_path, gl.data_path)
     print('123456')
+    print('456789')
